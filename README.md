@@ -1,4 +1,4 @@
-# CSensorFusion
+## Documentation 
 
 Autonomous drones rely on several AI algorithms to navigate, make decisions, and optimize performance e.g.
 
