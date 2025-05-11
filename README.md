@@ -1,5 +1,7 @@
 ## Documentation 
 
+This is a simple C implementation of sensor fusion using a **Kalman Filter** to integrate data from multiple sensors (LiDAR, GPS, and IMU). This helps improve accuracy in positioning and environmental awareness.
+
 Autonomous drones rely on several AI algorithms to navigate, make decisions, and optimize performance e.g.
 
 1. **Computer Vision & Object Recognition** – Drones use AI-powered vision systems to detect, track, and classify objects in their surroundings, enabling obstacle avoidance and target identification.
