@@ -8,3 +8,7 @@ Autonomous drones rely on several AI algorithms to navigate, make decisions, and
 4. **Reinforcement Learning** – Drones learn from experience, improving flight efficiency and decision-making over time.
 5. **Swarm Intelligence** – AI enables multiple drones to coordinate and work together efficiently, useful in search-and-rescue or surveillance operations.
 6. **Predictive Maintenance** – AI analyzes drone performance data to predict failures and schedule maintenance proactively.
+### **How it Works**
+1. **Sensors Collect Data** – GPS, LiDAR, and IMU provide position estimates.
+2. **Kalman Filter Applies Corrections** – It improves accuracy by weighing each sensor's reliability.
+3. **Final Position Estimate** – The result is a refined and more precise position estimate.
