@@ -322,38 +322,13 @@ This project is provided for educational and research use. Modify and distribute
 
 ---
 
-## Contributing
+## Website 
 
-Contributions welcome:
+https://mafeforge.com
 
-* Multi-dimensional support
-* Sensor models
-* Performance improvements
-* Expanded testing
 
----
 
-## Summary
 
-This documentation includes:
 
-* Complete API reference
-* Mathematical foundations
-* Practical examples
-* Build instructions
-* Tuning guidance
-* Safety validation
-
----
-
-**Last updated:** March 24, 2026
-
----
-
-If you want, I can next:
-
-* Turn this into a polished GitHub README with badges + TOC
-* Add diagrams (state flow / covariance evolution)
-* Or generate a full Doxygen-compatible version
 
 
