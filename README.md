@@ -1,9 +1,6 @@
 
-Here’s your content converted into clean, GitHub-ready Markdown with proper formatting, spacing, and code blocks:
 
----
-
-# 📘 1D Kalman Filter (C Implementation)
+#  1D Kalman Filter (C Implementation)
 
 ## Overview
 
@@ -229,13 +226,13 @@ if (kf->error_covariance < 0.0f) {
 
 ### Best Practices
 
-✅ Validate parameters before use
-✅ Check initialization return values
-✅ Use `kalman_validate()`
-✅ Monitor covariance
+ Validate parameters before use
+ Check initialization return values
+ Use `kalman_validate()`
+ Monitor covariance
 
-❌ Avoid negative noise values
-❌ Don’t skip NULL checks
+Avoid negative noise values
+ Don’t skip NULL checks
 
 ---
 
