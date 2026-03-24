@@ -316,11 +316,6 @@ Step | True Value | GPS (Noisy) | Estimate | Error Cov
 
 ---
 
-## License
-
-This project is provided for educational and research use. Modify and distribute freely.
-
----
 
 ## Website 
 
